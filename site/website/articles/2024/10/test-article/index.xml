@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bbff</objectGroupId>
+	<objectId>bbff97ad-5d1e-cf6b-fd70-2198667209e6</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;test-article&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>test-article</folder-name>
+	<internal-name>test-article</internal-name>
+	<title_t>test-article</title_t>
+	<subject_t>test-article</subject_t>
+	<author_s>test-article</author_s>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<categories_o>	<item>	<key>style</key>
+	<value_smv>Style</value_smv>
+	</item>	<item>	<key>health</key>
+	<value_smv>Health</value_smv>
+	</item>	<item>	<key>entertainment</key>
+	<value_smv>Entertainment</value_smv>
+	</item>	<item>	<key>technology</key>
+	<value_smv>Technology</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item>	<item>	<key>gal</key>
+	<value_smv>Gal</value_smv>
+	</item></segments_o>
+	<summary_t>test-article</summary_t>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<image_s>/static-assets/s3/images/item/2024/10/24/samplepngimage_100kbmb.png</image_s>
+	<createdDate>2024-10-24T22:50:43.984Z</createdDate>
+	<createdDate_dt>2024-10-24T22:50:43.984Z</createdDate_dt>
+	<lastModifiedDate>2024-10-24T22:50:43.984Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-10-24T22:50:43.984Z</lastModifiedDate_dt>
+	<date_dt>2024-10-24T06:00:00.000Z</date_dt>
+	<date_dt_tz>America/Costa_Rica</date_dt_tz>
+</page>
