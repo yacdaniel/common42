@@ -29,8 +29,8 @@
 	<date_dt>2020-07-02T06:00:00.000Z</date_dt>
 	<createdDate>2024-10-28T21:00:37.048Z</createdDate>
 	<createdDate_dt>2024-10-28T21:00:37.048Z</createdDate_dt>
-	<lastModifiedDate>2024-10-28T21:00:37.048Z</lastModifiedDate>
-	<lastModifiedDate_dt>2024-10-28T21:00:37.048Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-10-28T21:02:26.237Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-10-28T21:02:26.237Z</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary_t>Fusce a augue pulvinar, pellentesque magna ac, feugiat diam. Vestibulum ultricies ornare elit sed congue. Quisque vitae urna lacinia, mollis lorem a, iaculis libero. Praesent dolor libero, ullamcorper sed pharetra placerat, pretium in arcu. </summary_t>
 	<image_s>/static-assets/images/smartphone-pic.jpg</image_s>
@@ -38,7 +38,7 @@
 	<disabled>false</disabled>
 	<header_o item-list="true"/>
 	<left_rail_o item-list="true"/>
-	<expired_dt>2024-10-29T20:58:36.000Z</expired_dt>
+	<expired_dt>2024-10-29T20:04:36.000Z</expired_dt>
 	<expired_dt_tz>America/Costa_Rica</expired_dt_tz>
 	<date_dt_tz>America/Costa_Rica</date_dt_tz>
 </page>
