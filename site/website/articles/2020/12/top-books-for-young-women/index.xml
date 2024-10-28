@@ -24,11 +24,11 @@
 	<segments_o>	<item>	<key>gal</key>
 	<value_smv>Gal</value_smv>
 	</item></segments_o>
-	<date_dt>2020-12-28T05:00:00.000Z</date_dt>
+	<date_dt>2020-12-27T06:00:00.000Z</date_dt>
 	<createdDate>2017-03-2T20:48:57.000Z</createdDate>
 	<createdDate_dt>2017-03-2T20:48:57.000Z</createdDate_dt>
-	<lastModifiedDate>2019-12-03T09:24:33.150Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-12-03T09:24:33.150Z</lastModifiedDate_dt>
+	<lastModifiedDate>2024-10-28T21:00:44.029Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-10-28T21:00:44.029Z</lastModifiedDate_dt>
 	<featured_b>false</featured_b>
 	<summary_t>Curabitur lobortis laoreet vehicula. Integer condimentum non mauris in bibendum. Morbi et facilisis nisl. In suscipit eros sapien, ut venenatis quam interdum gravida. Praesent ultricies interdum dictum.</summary_t>
 	<image_s>/static-assets/images/book-woman-pic.jpg</image_s>
@@ -36,4 +36,7 @@
 	<header_o item-list="true"/>
 	<left_rail_o item-list="true"/>
 	<date_dt_tz>EST5EDT</date_dt_tz>
+	<expired/>
+	<expired_dt>2024-11-27T21:00:44.000Z</expired_dt>
+	<expired_dt_tz>America/Costa_Rica</expired_dt_tz>
 </page>
